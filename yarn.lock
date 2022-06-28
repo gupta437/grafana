@@ -6934,14 +6934,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@microsoft/api-extractor-model@npm:7.18.0":
-  version: 7.18.0
-  resolution: "@microsoft/api-extractor-model@npm:7.18.0"
+"@microsoft/api-extractor-model@npm:7.20.2":
+  version: 7.20.2
+  resolution: "@microsoft/api-extractor-model@npm:7.20.2"
   dependencies:
     "@microsoft/tsdoc": 0.14.1
     "@microsoft/tsdoc-config": ~0.16.1
-    "@rushstack/node-core-library": 3.45.5
-  checksum: ccca08eafe024bbf53fbf7449aa1003cd15843eb76d57fa2ac02ffdd411e57bd19bd1e15a7b7b315e17d438463c3cc075a2d2d40c44b6e80049550597b7e8be7
+    "@rushstack/node-core-library": 3.48.0
+  checksum: 906c912bfbc57e95e3fdf3f7b7eba929f3f9a9cd2addc06960d686ed7bc7d31f8e58ac98820522ee21e90b512b530544a48930eb83c9b3d906dea03d68ac8dae
   languageName: node
   linkType: hard
 
@@ -29894,7 +29894,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.7.1":
+"prettier@npm:2.7.1, prettier@npm:^2.3.2":
   version: 2.7.1
   resolution: "prettier@npm:2.7.1"
   bin:
@@ -29909,15 +29909,6 @@ __metadata:
   bin:
     prettier: bin-prettier.js
   checksum: e8851a45f60f2994775f96e07964646c299b8a8f9c64da4fbd8efafc20db3458bdcedac79aed34e1d5477540b3aa04f6499adc4979cb7937f8ebd058a767d8ff
-  languageName: node
-  linkType: hard
-
-"prettier@npm:^2.3.2":
-  version: 2.7.1
-  resolution: "prettier@npm:2.7.1"
-  bin:
-    prettier: bin-prettier.js
-  checksum: 55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
   languageName: node
   linkType: hard
 
